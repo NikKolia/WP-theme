@@ -1,0 +1,25 @@
+#header .orange {
+	color: #008000;
+}
+
+#header .slogan {
+	margin: 15px 0 0 -72px;
+	width: 580px;
+}
+
+#left {
+	position: static;
+}
+
+#right #article {
+	margin-bottom: 120px;
+}
+
+#right table button , 
+#right #others , 
+#right #comment .lowp , 
+#right #comment .link_cart,
+#right h4 span.title ,
+#map {
+	display: none;
+}
