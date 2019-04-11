@@ -1,1 +1,1 @@
-Тестовое задание WordPress
+WordPress
